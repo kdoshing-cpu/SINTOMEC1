@@ -1,0 +1,6 @@
+{
+  "name": "Sintomec Ingeniería",
+  "description": "Sitio web profesional y optimizado de ingeniería y transmisión de potencia mecánica para la gran minería en Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
